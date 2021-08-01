@@ -1,1 +1,1 @@
-# android_vendor_samsung_gt58wifi
+# android_vendor_samsung_gt58ltedo
